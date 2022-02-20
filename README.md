@@ -3,10 +3,12 @@
 <h2 align="center">Welcome to Jurassic Fabxxit! Recreation of Rexxit idea for 1.18.1 fabric</h2>
 
 ### Downloads
-- [Fabric CurseForge format]()
-- [Fabric MultiMC format]()
-- [Fabric Modrinth format]()
-- [Fabric Only Mods]()
+
+- [Fabric CurseForge format](https://github.com/Legacy-ReFabrication/Jurassic-Fabxxit/releases/download/1.0/Jurassic.Fabxxit.CF.zip)
+- [Fabric MultiMC format](https://github.com/Legacy-ReFabrication/Jurassic-Fabxxit/releases/download/1.0/Jurassic.Fabxxit.MMC.zip)
+- [Fabric Modrinth format](https://github.com/Legacy-ReFabrication/Jurassic-Fabxxit/releases/download/1.0/Jurassic.Fabxxit.MR.mrpack)
+- [Fabric Only Mods](https://github.com/Legacy-ReFabrication/Jurassic-Fabxxit/releases/download/1.0/Jurassic.Fabxxit.Mods.zip)
+- [Fabric Only Configs](https://github.com/Legacy-ReFabrication/Jurassic-Fabxxit/releases/download/1.0/Jurassic.Fabxxit.configs.zip)
 
 ### Optifine
 **Modpack doesn't support optifine and never will be, if you want optifine features check out [Optifine Alternatives](https://lambdaurora.dev/optifine_alternatives/)**
