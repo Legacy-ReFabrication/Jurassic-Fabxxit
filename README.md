@@ -62,3 +62,20 @@
 - [Mo' Structures](https://github.com/frqnny/mostructures)
 - [Redstone Bits](https://github.com/Shnupbups/redstone-bits)
 - [MaLiLib](https://github.com/maruohon/malilib)
+- [Litematica](https://github.com/maruohon/litematica)
+- [CraftingPad](https://github.com/StrikerRockers-Mods/CraftingPad)
+- [Sync](https://github.com/Kir-Antipov/sync-fabric)
+- [Chat Heads](https://github.com/dzwdz/chat_heads)
+- [Flytre Lib](https://www.curseforge.com/minecraft/mc-mods/lib) {Close source}
+- [Chat+](https://www.curseforge.com/minecraft/mc-mods/chat) {Close source}
+- [Fabric Language Kotlin](https://github.com/FabricMC/fabric-language-kotlin)
+- [Industrial Revolution](https://github.com/StupPlayer/Industrial-Revolution)
+- [Trees Do Not Float](https://github.com/grondag/trees-dont-float)
+- [Nicephore](https://github.com/LotuxPunk/Nicephore-Fabric)
+- [WTHIT](https://github.com/badasintended/wthit)
+- [Melon Wireless Redstone](https://github.com/MrMelon54/wireless-redstone-fabric)
+- [AE2 Wireless Terminals](https://github.com/Mari023/AE2WirelessTerminalLibrary)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) {Close source}
+- [Cosmetica](https://github.com/EyezahMC/Cosmetica)
+- [Not Enough Crashes](https://github.com/natanfudge/not-enough-crashes)
+- [C2ME](https://github.com/RelativityMC/C2ME-fabric)
